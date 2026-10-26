@@ -1,0 +1,6 @@
+{
+  "name": "Zenith · Expense & Wastage Tracker",
+  "description": "2026 flagship personal expense, income, and wastage tracker with hardened 6-layer security, offline-first sync, and multi-currency engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
